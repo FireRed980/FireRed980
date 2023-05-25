@@ -1,8 +1,8 @@
-### OLÁ, EU SOU O VINI 
+### Olá! Meu nome é Vinícius Ribeiro Romão Dias e eu estou cursando o Ensino Médio Integrado ao Curso Tecnico em Analise e Desenvolvimento de Sistemas
 
  
-- 🔭 Sou um estudante de Desenvolvimento de sistemas
-- 🌱 Eu estou aprendendo diversas linguagens como css,js,html,C#,entre outras
+- 🔭 Sou um estudante de Analise e Desenvolvimento de sistemas.
+- 🌱 Eu estou aprendendo diversas linguagens como css,js,html,C#, JavaScript, entre outras.
 - 😄 Pronomes:Ele/Dele
 
  
